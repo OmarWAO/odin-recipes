@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(44, 41, 41);
+    font-family: Helvetica, Tahoma, sans-serif;
+}
+
+.text {
+    color: rgb(231, 224, 224);
+    font-size: 26px;
+}
+
+h1.text {
+    font-size: 46px;
+    background-color: hsl(0, 30%, 46%);
+}
+
+.odd {
+    background-color: hsl(0, 30%, 46%);
+}
+
+.even {
+    background-color: hsl(0, 30%, 38%); 
+}
+
+#m0 {
+    background-color: hsl(0, 30%, 10%);
+}
+
+#m1 {
+    background-color: hsl(0, 30%, 22%);
+}
+
+#m2 {
+    background-color: hsl(0, 30%, 34%);
+}
